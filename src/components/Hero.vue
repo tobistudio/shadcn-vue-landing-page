@@ -55,7 +55,7 @@ import { ArrowRight } from "lucide-vue-next";
             class="w-5/6 md:w-1/4 font-bold"
           >
             <a
-              href="https://github.com/leoMirandaa/shadcn-vue-landing-page.git"
+              href="https://github.com/tobistudio/shadcn-vue-landing-page.git"
               target="_blank"
               >Github respository</a
             >

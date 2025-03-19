@@ -37,7 +37,7 @@ const teamList: TeamProps[] = [
       },
       {
         name: "Github",
-        url: "https://github.com/leoMirandaa",
+        url: "https://github.com/tobistudio",
       },
       {
         name: "X",
@@ -75,7 +75,7 @@ const teamList: TeamProps[] = [
       },
       {
         name: "Github",
-        url: "https://github.com/leoMirandaa",
+        url: "https://github.com/tobistudio",
       },
     ],
   },
@@ -92,7 +92,7 @@ const teamList: TeamProps[] = [
       },
       {
         name: "Github",
-        url: "https://github.com/leoMirandaa",
+        url: "https://github.com/tobistudio",
       },
       {
         name: "X",
@@ -126,7 +126,7 @@ const teamList: TeamProps[] = [
       },
       {
         name: "Github",
-        url: "https://github.com/leoMirandaa",
+        url: "https://github.com/tobistudio",
       },
     ],
   },
@@ -143,7 +143,7 @@ const teamList: TeamProps[] = [
       },
       {
         name: "Github",
-        url: "https://github.com/leoMirandaa",
+        url: "https://github.com/tobistudio",
       },
       {
         name: "X",

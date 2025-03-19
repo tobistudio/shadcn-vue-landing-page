@@ -212,7 +212,7 @@ const isOpen = ref<boolean>(false);
       >
         <a
           aria-label="View on GitHub"
-          href="https://github.com/leoMirandaa/shadcn-vue-landing-page.git"
+          href="https://github.com/tobistudio/shadcn-vue-landing-page.git"
           target="_blank"
         >
           <GithubIcon class="size-5" />

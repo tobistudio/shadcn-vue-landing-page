@@ -35,7 +35,7 @@ Live demo is now available: <a href="https://shadcn-vue-landing-page.vercel.app"
 1. Clone this repositoy:
 
 ```bash
-git clone https://github.com/leoMirandaa/shadcn-vue-landing-page.git
+git clone https://github.com/tobistudio/shadcn-vue-landing-page.git
 ```
 
 2. Go into project
