@@ -5,6 +5,7 @@
 ![Alt text](./public/demo-img.jpg)
 Live demo is now available: <a href="https://shadcn-vue-landing-page.vercel.app" target="_blank">Live Demo</a>
 
+
 ## Sections
 
 - [x] Navbar
